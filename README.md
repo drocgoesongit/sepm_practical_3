@@ -1,4 +1,4 @@
-# SEPM EXPERIMENT 3
+# sepm_practical_3
 Sepm practical repo
 This repo contaihns practical files for sepm subject.
-412025
+Experiment 3 of SEPM 410233
