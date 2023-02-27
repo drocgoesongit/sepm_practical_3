@@ -8,4 +8,7 @@ This repo contains practical files for sepm subject.
 412026\
 412033\
 
+This is the change made in menots-edit
+
+
 This is few changes in main.
