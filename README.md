@@ -1,6 +1,6 @@
 # sepm_practical_3
 Sepm practical repo
-This repo contaihns practical files for sepm subject.
+This repo contains practical files for sepm subject.
 
 ### Contributors to this repo:
 412025\
@@ -11,3 +11,4 @@ This repo contaihns practical files for sepm subject.
 This is the change made in menots-edit
 
 
+This is few changes in main.
